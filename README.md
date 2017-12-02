@@ -24,3 +24,8 @@ For Spanish:
 ``
 sudo apt-get install texlive-lang-spanish
 ``
+
+### Installing extra packages
+``
+sudo apt install texlive-latex-extra
+``
